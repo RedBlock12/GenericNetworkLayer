@@ -1,10 +1,3 @@
-//
-//  APIError.swift
-//  FetchCodingAssessment
-//
-//  Created by Dev on 12/03/2024.
-//
-
 import Foundation
 
 enum APIError: Error {
