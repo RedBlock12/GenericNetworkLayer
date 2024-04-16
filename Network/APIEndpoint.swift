@@ -1,10 +1,3 @@
-//
-//  APIEndpoint.swift
-//  FetchCodingAssessment
-//
-//  Created by Dev on 12/03/2024.
-//
-
 import Foundation
 protocol APIEndpoint {
     var baseURL: URL { get }
